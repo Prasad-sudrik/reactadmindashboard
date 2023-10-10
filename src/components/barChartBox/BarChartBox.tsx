@@ -1,4 +1,4 @@
-import "./barchartBox.scss";
+import "./barChartBox.scss";
 import { BarChart, Bar, Tooltip, ResponsiveContainer } from "recharts";
 
 type Props = {
