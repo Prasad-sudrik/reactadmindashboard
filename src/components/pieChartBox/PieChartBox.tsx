@@ -1,6 +1,6 @@
 import { ResponsiveContainer, Tooltip } from "recharts";
 import "./pieChartBox.scss";
-import { PieChart, Pie, Sector, Cell } from "recharts";
+import { PieChart, Pie, Cell } from "recharts";
 
 const data = [
   { name: "Mobile", value: 400, color: "#0088FE" },
